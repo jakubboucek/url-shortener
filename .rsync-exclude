@@ -1,0 +1,9 @@
+.gitignore
+.rsync-exclude
+composer.json
+composer.lock
+deploy.sh
+readme.md
+/log/*
+/temp/*
+/app/config/config.local.neon

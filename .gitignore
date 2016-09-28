@@ -1,0 +1,7 @@
+node_modules
+web/app/config/config.local.neon
+web/log
+!web/log/.gitignore
+web/temp
+!web/temp/.gitignore
+web/vendor
